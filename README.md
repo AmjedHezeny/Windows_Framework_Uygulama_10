@@ -1,29 +1,27 @@
-# Windows Forms 🌟Çeşitli İşlevlere Uygulamalar Projesi 🎯🖥️
+# Windows Forms 🌟 Kişileri Yönet Uygulama Projesi 📋🖥️
 
-* Form1: 
-   -  Bu form, diğer formları açabilen bir ana formdur. 🖥️
-   -  İçerisinde 5 tane buton bulunuyor ve her biri bir formu açıyor. 🔓
 
-* Form2: 
-   -  Kullanıcıdan bir sayı alır. 📊
-   -  Girilen sayının çift mi, tek mi olduğunu kontrol eder. 🔄
-   -  Klavyeden "Enter" tuşuna basılması durumunda da aynı kontrol yapılır. ⌨️
+* Form1 (Ana Form):
+   -  Form1() metodu: Ana formun oluşturulmasını sağlar. 🏠
+   -  "Kişi Ekle" butonu (button1_Click metodu): Yeni bir kişinin bilgilerini eklemek için bir alt form açar. 📝
+   -  "Kişileri Listele" butonu (button2_Click metodu): Kaydedilen kişilerin listesini göstermek için bir alt form açar. 📋
 
-* Form3: 
-   - Kullanıcıdan iki sayı alır. 📊
-   - Bu iki sayının ortalamasını hesaplar ve ekrana yazar. 🧮
+* Kişi Ekle Formu (Form2): 
+   -  Form2() metodu: Kişi ekleme formunun oluşturulmasını sağlar. 📝
+   -  "Kaydet" butonu (button1_Click metodu): Kullanıcının girdiği kişi bilgilerini kaydeder. 💾
 
-* Form4: 
-   - Kullanıcıdan üç sayı alır. 📊
-   - Bu üç sayının en büyük ve en küçük olanlarını bulur ve ekrana yazar. 📈📉
+* Kişileri Listele Formu (Form3): 
+   - Form3() metodu: Kayıtlı kişilerin listesini gösteren formun oluşturulmasını sağlar. 📋
+   - "Kişiyi Düzenle" butonu (button1_Click metodu): Seçilen kişinin bilgilerini düzenlemek için bir alt form açar. ✏️
+   - "Kişiyi Sil" butonu (button2_Click metodu): Seçilen kişiyi listeden siler. ❌
+
+* Kişi Düzenle Formu (Form4):
+   - Form4() metodu: Kişi düzenleme formunun oluşturulmasını sağlar. 📝
+   - "Güncelle" butonu (button1_Click metodu): Kullanıcının girdiği yeni kişi bilgileri ile seçilen kişinin bilgilerini günceller. 🔧
      
- * Form5: 
-   - Bilgisayar, 0 ile 100 arasında rastgele bir sayı seçer. 🎲
-   - Kullanıcı bu sayıyı tahmin etmeye çalışır. 🔮
-   - Her yanlış tahminde skor 10 puan azalır. ⚖️
-
-* Form6:
-   - Bir ComboBox'tan seçilen sayının 1'den 10'a kadar olan çarpım sonuçlarını bir ListBox'a ekler. 🧮
+ * Kişi Sorgula Formu (Form5):
+   - Form5() metodu: Kişi sorgulama formunun oluşturulmasını sağlar. 🔍
+   - "Sorgula" butonu (button1_Click metodu): Kullanıcının girdiği kriterlere göre kişileri sorgular. 📊
 
 
 
