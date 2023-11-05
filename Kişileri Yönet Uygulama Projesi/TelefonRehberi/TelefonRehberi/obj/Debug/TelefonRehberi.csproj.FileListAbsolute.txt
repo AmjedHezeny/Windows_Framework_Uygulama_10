@@ -1,0 +1,60 @@
+C:\Users\user\Desktop\repo\Personel_Project\TelefonRehberi\bin\Debug\TelefonRehberi.exe.config
+C:\Users\user\Desktop\repo\Personel_Project\TelefonRehberi\bin\Debug\TelefonRehberi.exe
+C:\Users\user\Desktop\repo\Personel_Project\TelefonRehberi\bin\Debug\TelefonRehberi.pdb
+C:\Users\user\Desktop\repo\Personel_Project\TelefonRehberi\bin\Debug\EntityFramework.dll
+C:\Users\user\Desktop\repo\Personel_Project\TelefonRehberi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\Desktop\repo\Personel_Project\TelefonRehberi\bin\Debug\EntityFramework.xml
+C:\Users\user\Desktop\repo\Personel_Project\TelefonRehberi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\Desktop\repo\Personel_Project\TelefonRehberi\obj\Debug\TelefonRehberi.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\repo\Personel_Project\TelefonRehberi\obj\Debug\TelefonRehberi.Form1.resources
+C:\Users\user\Desktop\repo\Personel_Project\TelefonRehberi\obj\Debug\TelefonRehberi.Properties.Resources.resources
+C:\Users\user\Desktop\repo\Personel_Project\TelefonRehberi\obj\Debug\TelefonRehberi.csproj.GenerateResource.cache
+C:\Users\user\Desktop\repo\Personel_Project\TelefonRehberi\obj\Debug\TelefonRehberi.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\repo\Personel_Project\TelefonRehberi\obj\Debug\TelefonRehberi.csproj.CopyComplete
+C:\Users\user\Desktop\repo\Personel_Project\TelefonRehberi\obj\Debug\TelefonRehberi.exe
+C:\Users\user\Desktop\repo\Personel_Project\TelefonRehberi\obj\Debug\TelefonRehberi.pdb
+C:\Users\sadullah.sener\Desktop\TelefonRehberi\bin\Debug\TelefonRehberi.exe.config
+C:\Users\sadullah.sener\Desktop\TelefonRehberi\bin\Debug\TelefonRehberi.exe
+C:\Users\sadullah.sener\Desktop\TelefonRehberi\bin\Debug\TelefonRehberi.pdb
+C:\Users\sadullah.sener\Desktop\TelefonRehberi\bin\Debug\EntityFramework.dll
+C:\Users\sadullah.sener\Desktop\TelefonRehberi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sadullah.sener\Desktop\TelefonRehberi\bin\Debug\EntityFramework.xml
+C:\Users\sadullah.sener\Desktop\TelefonRehberi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sadullah.sener\Desktop\TelefonRehberi\obj\Debug\TelefonRehberi.csproj.AssemblyReference.cache
+C:\Users\sadullah.sener\Desktop\TelefonRehberi\obj\Debug\TelefonRehberi.csproj.SuggestedBindingRedirects.cache
+C:\Users\sadullah.sener\Desktop\TelefonRehberi\obj\Debug\TelefonRehberi.Form1.resources
+C:\Users\sadullah.sener\Desktop\TelefonRehberi\obj\Debug\TelefonRehberi.Properties.Resources.resources
+C:\Users\sadullah.sener\Desktop\TelefonRehberi\obj\Debug\TelefonRehberi.csproj.GenerateResource.cache
+C:\Users\sadullah.sener\Desktop\TelefonRehberi\obj\Debug\TelefonRehberi.csproj.CoreCompileInputs.cache
+C:\Users\sadullah.sener\Desktop\TelefonRehberi\obj\Debug\TelefonRehberi.csproj.CopyComplete
+C:\Users\sadullah.sener\Desktop\TelefonRehberi\obj\Debug\TelefonRehberi.exe
+C:\Users\sadullah.sener\Desktop\TelefonRehberi\obj\Debug\TelefonRehberi.pdb
+C:\Users\sadullah.sener\Desktop\TelefonRehberi\obj\Debug\TelefonRehberi.Ekle.resources
+C:\Users\sadullah.sener\Desktop\TelefonRehberi\obj\Debug\TelefonRehberi.Liste.resources
+C:\Users\sadullah.sener\Desktop\TelefonRehberi\obj\Debug\TelefonRehberi.Duzenle.resources
+C:\Users\sadullah.sener\Desktop\TelefonRehberi\bin\Debug\TelefonRehberi.exe.manifest
+C:\Users\sadullah.sener\Desktop\TelefonRehberi\bin\Debug\TelefonRehberi.application
+C:\Users\sadullah.sener\Desktop\TelefonRehberi\obj\Debug\TelefonRehberi.exe.manifest
+C:\Users\sadullah.sener\Desktop\TelefonRehberi\obj\Debug\TelefonRehberi.application
+C:\Users\amged\OneDrive\سطح المكتب\TelefonRehberi\TelefonRehberi\bin\Debug\TelefonRehberi.exe.config
+C:\Users\amged\OneDrive\سطح المكتب\TelefonRehberi\TelefonRehberi\bin\Debug\TelefonRehberi.exe.manifest
+C:\Users\amged\OneDrive\سطح المكتب\TelefonRehberi\TelefonRehberi\bin\Debug\TelefonRehberi.application
+C:\Users\amged\OneDrive\سطح المكتب\TelefonRehberi\TelefonRehberi\bin\Debug\TelefonRehberi.exe
+C:\Users\amged\OneDrive\سطح المكتب\TelefonRehberi\TelefonRehberi\bin\Debug\TelefonRehberi.pdb
+C:\Users\amged\OneDrive\سطح المكتب\TelefonRehberi\TelefonRehberi\bin\Debug\EntityFramework.dll
+C:\Users\amged\OneDrive\سطح المكتب\TelefonRehberi\TelefonRehberi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\amged\OneDrive\سطح المكتب\TelefonRehberi\TelefonRehberi\bin\Debug\EntityFramework.xml
+C:\Users\amged\OneDrive\سطح المكتب\TelefonRehberi\TelefonRehberi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\amged\OneDrive\سطح المكتب\TelefonRehberi\TelefonRehberi\obj\Debug\TelefonRehberi.csproj.AssemblyReference.cache
+C:\Users\amged\OneDrive\سطح المكتب\TelefonRehberi\TelefonRehberi\obj\Debug\TelefonRehberi.Duzenle.resources
+C:\Users\amged\OneDrive\سطح المكتب\TelefonRehberi\TelefonRehberi\obj\Debug\TelefonRehberi.Ekle.resources
+C:\Users\amged\OneDrive\سطح المكتب\TelefonRehberi\TelefonRehberi\obj\Debug\TelefonRehberi.Form1.resources
+C:\Users\amged\OneDrive\سطح المكتب\TelefonRehberi\TelefonRehberi\obj\Debug\TelefonRehberi.Liste.resources
+C:\Users\amged\OneDrive\سطح المكتب\TelefonRehberi\TelefonRehberi\obj\Debug\TelefonRehberi.Properties.Resources.resources
+C:\Users\amged\OneDrive\سطح المكتب\TelefonRehberi\TelefonRehberi\obj\Debug\TelefonRehberi.csproj.GenerateResource.cache
+C:\Users\amged\OneDrive\سطح المكتب\TelefonRehberi\TelefonRehberi\obj\Debug\TelefonRehberi.csproj.CoreCompileInputs.cache
+C:\Users\amged\OneDrive\سطح المكتب\TelefonRehberi\TelefonRehberi\obj\Debug\TelefonRehberi.exe.manifest
+C:\Users\amged\OneDrive\سطح المكتب\TelefonRehberi\TelefonRehberi\obj\Debug\TelefonRehberi.application
+C:\Users\amged\OneDrive\سطح المكتب\TelefonRehberi\TelefonRehberi\obj\Debug\TelefonRehberi.csproj.CopyComplete
+C:\Users\amged\OneDrive\سطح المكتب\TelefonRehberi\TelefonRehberi\obj\Debug\TelefonRehberi.exe
+C:\Users\amged\OneDrive\سطح المكتب\TelefonRehberi\TelefonRehberi\obj\Debug\TelefonRehberi.pdb
